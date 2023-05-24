@@ -20,13 +20,15 @@ What are the steps required to install your project? Provide a step-by-step desc
 This website has been updated for usage with screen readers. You can look at the Chrome DevTools and see alt text for images. 
 
 ## Credits
-I used this Youtube video for more understanding of Semantic Elements. https://youtu.be/kX3TfdUqpuU 
+I used this Youtube video for more understanding of Semantic Elements. 
+https://youtu.be/kX3TfdUqpuU 
 
 I used this website to get more knowledge about semantic elements. 
 https://www.w3schools.com/html/html5_semantic_elements.asp 
 
 I used this website for more knowledge about Alt tags. 
 https://www.w3schools.com/tags/att_img_alt.asp 
+
 ## License
 
 Please refer to the liscense in the repo. 
