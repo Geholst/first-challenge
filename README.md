@@ -31,4 +31,4 @@ https://www.w3schools.com/tags/att_img_alt.asp
 
 ## License
 
-Please refer to the liscense in the repo. 
+MIT license
